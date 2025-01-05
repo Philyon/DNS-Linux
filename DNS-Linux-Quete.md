@@ -1,4 +1,4 @@
-# Quete Linux DNS
+# DNS sur Linux - Quête
 
 Voici les différentes étapes, qui suivent le tuto proposé sur le site Linux Techi. Toutes les actions se font en tant que root sur un Debian 12 CLI.
 
