@@ -44,7 +44,7 @@ Voici les différentes étapes, qui suivent le tuto proposé sur le site Linux T
 14) On fait de même avec la commande ``nslookup`` :
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/55edb657-14e3-4461-a0fd-d8ba5d03d9fa" alt=""></p><br><br><br>
 
-15) Sur une VM Ubuntu, on modifie les paramtères IP pour que le serveur DNS soit bien pris en compte par la machine :
+15) Sur une VM Ubuntu, on met à jour les paramtères IPv4 pour que le serveur DNS soit bien pris en compte par la machine :
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/ce6852d5-bc5f-40ff-b933-6b41b3255760" alt=""></p><br><br><br>
 
 16) On teste enfin que tout est OK avec des commandes ``ping`` et ``nslookup`` :
